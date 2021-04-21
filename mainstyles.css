@@ -1,0 +1,86 @@
+body {background-color:  #ffffff;
+    overflow:scroll;
+    overflow-y: auto !important;}
+#back{
+  background-color: #3333ff;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width:15vw;
+  float: right;
+  position:relative;
+  right:11vw;
+}
+.card{
+    background-color: #f2f2f2;
+    width: 25vw;
+    height: 30vw;
+    float: left;
+    border-style:solid;
+    border-width: 10px;
+    border-radius: 20px;
+    border-color: white;
+    position: relative;
+    left: 10vw;
+}
+.img{
+    position: relative;
+    top: 2vw;
+    left: 4.5vw;
+}
+.name{
+    position: relative;
+    top: 3vw;
+    font-size: 2.5vw;
+    text-align: center;
+    font-family:"serif";
+}
+.desc{
+    position: relative;
+    top: 3vw;
+    font-family:"serif";
+    text-align: center;
+}
+#query{
+    background-color: #3333ff;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width:15vw;
+  float: right;
+  position:relative;
+  top:31vw;
+  right:11vw;
+}
+#closequery{
+    background-color: #3333ff;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width:15vw;
+  float: right;
+  position:relative;
+  top:31vw;
+  right:11vw;
+  display:none;
+}
+#delete{
+    background-color: #3333ff;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width:15vw;
+  float: right;
+  position:relative;
+  top:31vw;
+  right:11vw;
+
+}
